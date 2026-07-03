@@ -1,0 +1,12 @@
+.idea/
+cmake-build-*/
+*.o
+*.out
+*.exe
+.DS_Store
+.Rhistory
+.RData
+main
+gantt
+music
+*.zip
